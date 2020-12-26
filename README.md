@@ -6,7 +6,8 @@ Hello world! I'm Ella, a high school student from California. I'm learning how t
  <summary> <b>My Github Stats</b> </summary>
 <br>
 <p align = "center">
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=eilla1)](https://github.com/anuraghazra/github-readme-stats)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=eilla1&count_private=true)
+
 </p>
 
 </details>
