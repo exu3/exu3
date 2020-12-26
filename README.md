@@ -7,7 +7,7 @@ Hello world! I'm Ella, a high school student from California. I'm learning how t
 <br>
 <p align = "center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eilla1&count_private=true" />
-
+(not including private repositories)
 </p>
 
 </details>
