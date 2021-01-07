@@ -1,6 +1,6 @@
 # Heyo :wave:
 
-Hello world! I'm Ella, a high school student from California. I'm learning how to code. I mostly design and develop websites with HTML/CSS (and currently learning React), but I also love to challenge my skills by learning new languages and building cool things! When I'm not coding, you can find me hiking, volunteering, and and hanging out with my chickens. :chicken:
+Hello world! I'm Ella, a high school student from California. I'm learning how to code. I love learning new languages and working on useful projects! When I'm not coding, you can find me hiking, volunteering, and and hanging out with my chickens. :chicken:
 
 <details open>
  <summary> :octocat: <b>My GitHub Stats</b> </summary>
