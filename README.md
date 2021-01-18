@@ -2,7 +2,6 @@
 
 Hello world! I'm Ella, a high school student from California. I'm learning how to code. I love learning new skills and building random things! When I'm not coding, you can find me hiking, staring out the window, or hanging out with my chickens. :chicken:
 
-<details open>
  <summary> :octocat: <b>My GitHub Stats</b> </summary>
 <br>
 <p align = "center">
