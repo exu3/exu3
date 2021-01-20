@@ -15,6 +15,9 @@ I'm Ella, a high school student from California. I'm learning how to code. I lov
 
 </details>
 
+<details closed>
+ <summary><b>Weekly Stats</b></summary>
+
 <!--START_SECTION:waka-->
 ```text
 HTML         6 hrs 4 mins    ███████████████░░░░░░░░░░   60.63 % 
@@ -25,3 +28,4 @@ JavaScript   20 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+</details>
