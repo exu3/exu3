@@ -3,7 +3,7 @@
 I'm Ella, a high school student from California. I'm learning how to code. I love learning new skills and building random things! When I'm not coding, you can find me hiking, staring out the window, or hanging out with my chickens. :chicken:
 
 <details closed>
-<summary> :octocat: <b>My GitHub Stats</b> </summary>
+<summary> :octocat: <b>My Stats</b> </summary>
 <br>
 <p align = "center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eilla1&count_private=true" /> 
