@@ -16,5 +16,12 @@ I'm Ella, a high school student from California. I'm learning how to code. I lov
 </details>
 
 <!--START_SECTION:waka-->
+```text
+HTML         6 hrs 4 mins    ███████████████░░░░░░░░░░   60.63 % 
+Markdown     1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
+CSS          1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+SCSS         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+```
 <!--END_SECTION:waka-->
 
