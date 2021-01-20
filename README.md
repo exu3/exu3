@@ -16,7 +16,7 @@ I'm Ella, a high school student from California. I'm learning how to code. I lov
 </details>
 
 <details closed>
- <summary>:full_moon_with_face: <b>Weekly Stats</b></summary>
+ <summary> :full_moon_with_face: <b> Weekly Stats</b></summary>
 
 <!--START_SECTION:waka-->
 ```text
