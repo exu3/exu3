@@ -15,3 +15,6 @@ I'm Ella, a high school student from California. I'm learning how to code. I lov
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
