@@ -1,6 +1,8 @@
 ## Heyo, I'm Ella :v:
 :wave: I'm a high school student from California. I'm learning how to code. I love learning new skills and making cool things! When I'm not coding, you can find me hiking, staring out the window, or hanging out with my chickens. :chicken:
 
+Currently working on :woman_technologist:
+
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
 <br>
