@@ -1,7 +1,8 @@
-## Heyo, I'm Ella :v:
-:wave: I'm a high school student from California. I'm learning how to code. I love learning new skills and making cool things! When I'm not coding, you can find me hiking, staring out the window, or hanging out with my chickens. :chicken:
+<div align="center">
+ <h1 align="center"> Hello there, you've stumbled upon a GitHub profile. 👋</h1>
+</div>
 
-- Currently working on :woman_technologist:
+Nice to e-meet you.
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
