@@ -1,5 +1,6 @@
 <div align="center">
- <h1 align="center"> Hello there, you've stumbled upon a GitHub profile. 👋</h1>
+ <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="170" height="170">
+ <h1 align="center"> Hello there, you've stumbled upon a GitHub profile.</h1>
 </div>
 
 Nice to e-meet you.
