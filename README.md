@@ -1,9 +1,9 @@
 <div align="center">
  <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="170" height="170">
- <h1 align="center"> Hello there, you've stumbled upon a GitHub profile.</h1>
+ <h1 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
 </div>
 
-Nice to e-meet you.
+Nice to e-meet you! I'm Ella, a high school student from California. I'm learning how to code. I love working on cool projects and making things. In my very limited free time, I enjoy going outside and hanging out with my chickens. :chicken:
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
@@ -19,3 +19,5 @@ Nice to e-meet you.
 </div>
 
 </details>
+
+<div align="center">✨<a href="mailto:exu6056@gmail.com">contact me here</a>✨</div>
