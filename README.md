@@ -1,5 +1,5 @@
 <div align="center">
- <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="170" height="170">
+ <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="100" height="100">
  <h1 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
 </div>
 
