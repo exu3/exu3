@@ -1,6 +1,6 @@
 <div align="center">
- <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="100" height="100">
- <h1 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
+ <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="70" height="70">
+ <h3 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
 </div>
 
 Nice to e-meet you! I'm Ella, a high school student from California. I'm learning how to code. I love working on cool projects and making things. I'm currently learning React and making stuff for the web. In my very limited free time, I enjoy going outside and hanging out with my chickens. :chicken: 
