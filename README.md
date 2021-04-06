@@ -5,9 +5,6 @@
 
 Nice to e-meet you! I'm Ella, a high school student from California. I'm learning how to code. I love working on cool projects and making things. I'm currently learning React and making stuff for the web. In my very limited free time, I enjoy going outside and hanging out with my chickens. :chicken: 
 
-<div align="center"><a href="mailto:exu6056@gmail.com">📧</a></div>
-
-
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
 <div align="center">
