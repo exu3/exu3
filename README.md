@@ -5,6 +5,9 @@
 
 Hello, I'm Ella, a person from Earth. I'm learning how to code. I enjoy working on random projects and making things. In my very limited free time, I can be found hanging out with my chickens and going outside. 🚲 🐔
 
+![Profile Views](https://komarev.com/ghpvc/?username=eilla1&style=flat-square)
+
+
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
 <div align="center">
