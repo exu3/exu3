@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
  <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="70" height="70">
  <h3 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
-</div>
+</div> -->
 
-Nice to e-meet you! I'm Ella, a high school student from California. I'm learning how to code. I love working on cool projects and making things. I'm currently learning React and making stuff for the web. In my very limited free time, I enjoy going outside and hanging out with my chickens. :chicken: 
+Hello, I'm Ella, a person from Earth. I'm learning how to code. I enjoy working on random projects and making things. In my very limited free time, I can be found hanging out with my chickens and going outside. 🚲 🐔
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
