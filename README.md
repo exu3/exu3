@@ -1,9 +1,6 @@
-<!-- <div align="center">
- <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="70" height="70">
- <h3 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
-</div> -->
+### Hi, I'm Ella. 👋
 
-Hello, I'm Ella, a person from Earth. I'm learning how to code. I enjoy working on random projects and making things. In my very limited free time, I can be found hanging out with my chickens and going outside. 🚲 🐔
+I am a person from Earth, and I enjoy working on random projects and making things. In my very limited free time, I can be found hanging out with my chickens and going outside. 🌞
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
