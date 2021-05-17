@@ -2,6 +2,11 @@
 
 I am a person from Earth, and I enjoy working on random projects and making things. In my very limited free time, I can be found hanging out with my chickens and going outside. 🌞
 
+### Find me on the internet:
+- [polywork](https://timeline.ella.cx)
+- [website](https://ella.cx)
+- [email](mailto:hifromgithub@ella.cx)
+
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
 <div align="center">
