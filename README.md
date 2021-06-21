@@ -1,6 +1,6 @@
 ### Hi, I'm Ella. 👋
 
-I am a curious person from Earth, and I enjoy working on random projects and making things. 
+I am a curious human, and I enjoy working on random projects and making things. 
 
 ### About me:
 - 🏢 Currently a student and open source intern at [Fiveable](https://github.com/ThinkFiveable)
