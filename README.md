@@ -9,7 +9,6 @@ I am a curious human, and I enjoy working on random projects and making things.
 - 💬 Ping me about web development, design, collaboration, anything
 
 ### Find me on the internet:
-- [polywork](https://timeline.ella.cx)
 - [website](https://ella.cx)
 - [email](mailto:hey@ella.cx)
 
