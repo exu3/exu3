@@ -3,14 +3,13 @@
 I am a curious human, and I enjoy working on random projects and making things. 
 
 ### About me:
-- 🏢 Currently a student and open source intern at [Fiveable](https://github.com/ThinkFiveable)
-- 🌍 I'm mostly active in the [Hack Club Community](https://hackclub.com/slack)
-- 🌱 Learning about **Open Source**
-- 💬 Ping me about web development, design, collaboration, anything
+- 🏢 student & open source intern at [Fiveable](https://github.com/ThinkFiveable)
+- 🌍 [hack clubber](https://hackclub.com/slack)
+- 🌱 learning about **Open Source**
 
 ### Find me on the internet:
-- [website](https://ella.cx)
-- [email](mailto:hey@ella.cx)
+- [www](https://ella.cx)
+- [mail](mailto:hey@ella.cx)
 
 <details closed>
 <summary> :octocat: <b>My GitHub Stats</b> </summary>
