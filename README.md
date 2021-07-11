@@ -1,11 +1,6 @@
 ### Hi, I'm Ella. 👋
 
-I am a curious human, and I enjoy working on random projects and making things. 
-
-### About me:
-- 🏢 student & open source intern at [Fiveable](https://github.com/ThinkFiveable)
-- 🌍 [hack clubber](https://hackclub.com/slack)
-- 🌱 learning about **Open Source**
+I am a curious human, and I enjoy working on random projects and making things. I spend lots of time staring out the window.
 
 ### Find me on the internet:
 - [www](https://ella.cx)
