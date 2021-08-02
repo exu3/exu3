@@ -1,6 +1,6 @@
 ### Hi, I'm Ella. 👋
 
-I am a curious human, and I enjoy working on random projects and making things. I spend lots of time staring out the window.
+I am a curious human, and I enjoy working on random projects and making things.
 
 ### Find me on the internet:
 - [www](https://ella.cx)
