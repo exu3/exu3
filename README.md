@@ -1,6 +1,4 @@
-
-
-<table>
+<!-- <table>
 <thead>
   <tr>
     <th>GitHub Stats</th>
@@ -25,6 +23,4 @@
    </td>
   </tr>
 </tbody>
-</table>
-
-</details>
+</table> -->
