@@ -1,13 +1,5 @@
-### Hi, I'm Ella. 👋
 
-I am a curious human, and I enjoy working on random projects and making things.
 
-<!-- ### Find me on the internet:
-- [www](https://ella.cx)
-- [mail](mailto:hey@ella.cx) -->
-
-<details closed>
-<summary> :octocat: <b>My GitHub Stats</b> </summary>
 <table>
 <thead>
   <tr>
