@@ -25,7 +25,4 @@
 </tbody>
 </table> -->
 
-  <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eilla1&layout=compact" 
-      alt="top languages" />
+Hi there.
